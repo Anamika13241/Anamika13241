@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anamika K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 <h3 align="left">Connect with me:</h3>
